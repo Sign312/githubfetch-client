@@ -18,6 +18,6 @@
   }
 
   .picker-item {
-    width: 300px;
+    width: 300px !important;
   }
 </style>
