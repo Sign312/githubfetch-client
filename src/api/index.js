@@ -1,6 +1,10 @@
 import axios from 'axios'
 
-const baseUrl = 'http://www.flypie.cn:9999'
+//前后端分离调试时设置
+// const baseUrl = 'http://localhost:9999'
+
+//上线版本
+const baseUrl = ''
 
 const api = {}
 
