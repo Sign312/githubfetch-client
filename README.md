@@ -2,6 +2,8 @@
 
 GitHub爬虫的前端，可以单独运行或结合<https://github.com/flypie2/githubfetch>
 
+在线地址 <http://www.flypie.cn:9999/>
+
 ## 独立运行
 
 ``` bash
