@@ -1,8 +1,8 @@
 # githubfetche-client
 
-> A Vue.js project
+GitHub爬虫的前端，可以单独运行或结合<https://github.com/flypie2/githubfetch>
 
-## Build Setup
+## 独立运行
 
 ``` bash
 # install dependencies
