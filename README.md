@@ -1,4 +1,4 @@
-# githubfetche-client
+# githubfetch-client
 
 GitHub爬虫的前端，可以单独运行或结合<https://github.com/flypie2/githubfetch>
 
