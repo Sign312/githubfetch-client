@@ -18,9 +18,6 @@
   .main-content {
     width: 100%;
     height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
     background-color: #f8f8f8;
   }
 
@@ -28,7 +25,7 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    flex: 3;
+    height: 70%;
     overflow: scroll;
   }
 
@@ -58,8 +55,11 @@
   }
 
   .picker {
+    height: 30%;
     overflow: hidden;
-    flex: 1;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
     background-color: #fff;
     border-top: 2px solid #ddd;
     box-shadow: 0 -1px 1px 1px #bbb;
